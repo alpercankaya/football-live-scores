@@ -1,5 +1,5 @@
 # football-live-scores
-<a href="https://wordpress.org/plugins/football-live-scores/" title=“Football Live Scores“>Wordpress Live Score Plugin</a>
+[Wordpress Live Score Plugin](https://wordpress.org/plugins/football-live-scores/ "Football Live Scores")
 
 ## Football Live Scores 
 
@@ -11,7 +11,6 @@ Requires at least: 3.5
 Tested up to: 4.4
 Stable tag: 1.1.4
 License: GPL v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add Free Football Live Scores on your website.
 
@@ -24,7 +23,7 @@ You can enhance your website content by implementing live scores from all major 
 
 It is also compatible to all devices with a responsive structure. Phone or Pad screen size according to the site fully work in a sensitive way.
 
-Live score data provided by <a href="http://www.macsonuclarim.com" title=“maç sonuçları“>maç sonuçları</a>
+Live score data provided by [maç sonuçları](http://www.macsonuclarim.com "maç sonuçları")
 
 ## Screenshots
 

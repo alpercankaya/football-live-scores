@@ -1,7 +1,7 @@
 # football-live-scores
 Wordpress Live Score Plugin
 
-﻿=== Football Live Scores ===
+## Football Live Scores 
 
 Contributors: macsonuclarim
 Donate link: n/a
@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add Free Football Live Scores on your website.
 
-== Description ==
+## Description 
 
 
 Real Time Live Scores Are On Your Website Now !

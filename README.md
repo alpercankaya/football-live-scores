@@ -1,5 +1,5 @@
 # football-live-scores
-Wordpress Live Score Plugin
+<a href="https://wordpress.org/plugins/football-live-scores/" title=“Football Live Scores“>Wordpress Live Score Plugin</a>
 
 ## Football Live Scores 
 
@@ -26,32 +26,30 @@ It is also compatible to all devices with a responsive structure. Phone or Pad s
 
 Live score data provided by <a href="http://www.macsonuclarim.com" title=“maç sonuçları“>maç sonuçları</a>
 
-== Screenshots ==
+## Screenshots
 
 1. Live Score Desktop Screen Size - screenshot-1.jpg
 2. Live Score Pad Screen Size - screenshot-2.jpg
 3. Live Score Phone Screen Size - screenshot-3.jpg
 
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions 
 
 
-
-= What is Football Live Scores Plugin? =
-
+### What is Football Live Scores Plugin? 
 
 Football Live Scores Plugin offers FREE soccer live scores for your website.
 
-= After plugin installation how can i embed the live scores script? =
+### After plugin installation how can i embed the live scores script? 
 
 To add livescores insert shortcode [livescore] into page or post. Copy/paste. Easy setup.
 
-= How much does the widget cost? =
+### How much does the widget cost? 
 
 Our Plugin is %100 FREE. Live score data provided by http://www.macsonuclarim.com and we guarantees lifetime to be free.
 
 
-== Installation ==
+## Installation 
 
 1. Upload the `live-scores` folder to the `/wp-content/plugins/` directory
 
@@ -60,7 +58,7 @@ Our Plugin is %100 FREE. Live score data provided by http://www.macsonuclarim.co
 1. Configure the plugin by going to the `Live Scores` menu that appears in your admin menu
 1. Add live scores into page or post insert shortcode [livescore] to your content.
 
-== Changelog ==
+### Changelog 
 
 = 1.1.1 =
 * Tested with wordpress version 4.4 

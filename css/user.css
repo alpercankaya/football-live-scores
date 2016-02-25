@@ -1,0 +1,25 @@
+.ms-Button {
+    display: inline-block;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #66A6CB ;
+
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #FFF;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    box-shadow: 0px 0px 2px #999;
+    -moz-box-shadow: 0px 0px 2px #999;
+    -webkit-box-shadow: 0px 0px 2px #999;
+
+    height: 28px;
+    width:15%;
+}
+
+.ms-Button:hover  {
+    color: #66A6CB;
+    background-color: #FFF;
+    border: 1px solid #66A6CB;
+}
